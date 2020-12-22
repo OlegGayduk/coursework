@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Вход</title>
+	<link rel='stylesheet' type='text/css' href='css/login.css'/>
+    <script src="js/signIn.js"></script>
+</head>
+<body>
+
+	<div class="container">
+		<div class="media-progress"></div>
+		<div class="error-container">
+            <div class="error-log"></div>
+        </div>
+        <p class='come'>Sign in</p>
+        <div class="main-form"> 
+            <p><label class="login-text">Ваш телефон: </label>
+            <input class="login-field" name="login" type="tel" size="40" maxlength="40" /></p> 
+            <p><label class="pass-text">Ваш пароль: </label>
+            <input class="pass-field" name="pass" type="password" size="40" maxlength="40" /></p> 
+            <p><input class="come-btn" type="submit" value="Войти" onclick="signIn.login()"></p>
+            <p><a class="register" href='registr.html'>Регистрация</a></p>
+        </div>
+	</div>
+
+</body>
+</html>
