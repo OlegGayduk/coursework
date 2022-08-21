@@ -1,0 +1,6 @@
+# coursework![1](https://user-images.githubusercontent.com/63071210/185796863-1f271538-e72d-4675-80d6-74d4816ea175.png)
+![2](https://user-images.githubusercontent.com/63071210/185796865-8900850a-7e0b-48d0-b3b6-c1c726d96139.png)
+![3](https://user-images.githubusercontent.com/63071210/185796866-5ee230a0-4f66-42e7-9a50-b3dc6fc8f147.jpg)
+![4](https://user-images.githubusercontent.com/63071210/185796867-be226b00-7b14-44ed-a941-024008a879b5.jpg)
+![5](https://user-images.githubusercontent.com/63071210/185796868-f5e05bb2-4a00-48ce-beb7-bf14745b6be2.jpg)
+![6](https://user-images.githubusercontent.com/63071210/185796869-0b40bc86-f7e8-45f5-905d-cf8aabb974cb.jpg)
